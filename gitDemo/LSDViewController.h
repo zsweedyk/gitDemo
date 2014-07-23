@@ -10,4 +10,6 @@
 
 @interface LSDViewController : UIViewController
 
+- (IBAction)buttonPressed:(id)sender;
+
 @end
